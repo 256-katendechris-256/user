@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "99043156600",
+    "project_id": "marvin-1bc14",
+    "storage_bucket": "marvin-1bc14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99043156600:android:da2a5e26e34868886ac38d",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99043156600-8ohv1ri0j6j4u9eg2grieios3kmgrshu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user",
+            "certificate_hash": "bd36aa07c490ea3649faf12a6f516d78f66ab207"
+          }
+        },
+        {
+          "client_id": "99043156600-gbjdoqk4pb4dblk59e5oro3ocsb8p0fh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUTTZUXL1wU9-isMvJo5A8DTnYeYgJ6DY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99043156600-gbjdoqk4pb4dblk59e5oro3ocsb8p0fh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
